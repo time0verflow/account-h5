@@ -2,7 +2,7 @@ module.exports = {
     apps: [
         {
             name: 'account-h5',
-            script: 'account-h5-back'
+            script: 'server.js'
         }
     ],
     deploy: {
